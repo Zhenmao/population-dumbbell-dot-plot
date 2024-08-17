@@ -1,45 +1,46 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans:700&display=swap");
 
 body {
-	font-family: "Merriweather", serif;
-	font-size: 12px;
-	background: #eae3da;
-	color: #538082;
+  font-family: "Merriweather", serif;
+  font-size: 12px;
+  background: #eae3da;
+  color: #538082;
+  margin: 0;
 }
 
 h1 {
-	font-family: "Merriweather Sans", sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
 }
 
 a {
-	color: #538082;
+  color: #538082;
 }
 
 p {
-	width: 500px;
-	margin: auto;
-	line-height: 1.5;
+  width: 500px;
+  margin: auto;
+  line-height: 1.5;
 }
 
 text {
-	fill: #666;
+  fill: #666;
 }
 
 .container {
-	width: 100%;
-	max-width: 960px;
-	min-width: 600px;
-	margin: auto;
-	text-align: center;
+  width: 100%;
+  max-width: 960px;
+  min-width: 600px;
+  margin: auto;
+  text-align: center;
 }
 
 line,
 path {
-	stroke: #538082;
+  stroke: #538082;
 }
 
 #arrow,
 #dot {
-	fill: #538082;
-	opacity: 0.65;
+  fill: #538082;
+  opacity: 0.65;
 }
